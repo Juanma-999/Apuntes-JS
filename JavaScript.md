@@ -667,3 +667,6 @@ class MathUtils {
 
 const result = MathUtils.square(5);
 ```
+
+## Package managers (npm), module bundlers (node.js) y ES6 modules
+Los package managers son herramientas que facilitan el proceso de descargar y actualizar librerías. npm es un package manager creado para node.js, un runtime de JavaScriptn diseñado para ejecutarse del lado del servidor en lugare de del lado del cliente, lo cual lo convierte en una elección un tanto extraña para un package manager para librerías que deben ejecutarse en el navegador.
